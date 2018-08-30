@@ -1,0 +1,4 @@
+.firebase/
+.firebaserc
+.idea/
+functions/node_modules/
